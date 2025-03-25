@@ -1,6 +1,7 @@
 # ml5.js를 통한 화상미팅 과제
 
-# ✋ Hand Gesture Interactive System with p5.js + ml5.js
+#### ✋ Hand Gesture Interactive System with p5.js + ml5.js 유튜브 링크  : https://youtu.be/itJq-v4e-4I?si=SVP-ulDPp7n98vei
+
 
 
 
